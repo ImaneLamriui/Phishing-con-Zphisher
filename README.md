@@ -16,3 +16,11 @@ Laboratorio seguro vs clonación real:
 
 🔹En un ataque real, un atacante podría clonar páginas auténticas y exponerlas vía Cloudflare, Ngrok o VPS, generando enlaces peligrosos que engañarían a víctimas reales.
 
+<img src="1-Zphish">
+
+<img src="2-Zphish">
+
+<img src="3-Zphish">
+
+<img src="4-Zphish">
+
